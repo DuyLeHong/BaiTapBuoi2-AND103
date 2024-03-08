@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "875914534171",
+    "project_id": "md18309",
+    "storage_bucket": "md18309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875914534171:android:20c362c8864f315a5807be",
+        "android_client_info": {
+          "package_name": "com.chinhdev.lab1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJGv-QO7kSvbqlmHPE2keUKVaT9VLp1_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875914534171:android:81a4780c39aa3fcd5807be",
+        "android_client_info": {
+          "package_name": "com.duyle.lab1_md18309"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJGv-QO7kSvbqlmHPE2keUKVaT9VLp1_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875914534171:android:64faab7a955cfd665807be",
+        "android_client_info": {
+          "package_name": "com.duyle.lap1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJGv-QO7kSvbqlmHPE2keUKVaT9VLp1_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
